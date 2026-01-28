@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+
+.penceramah img {
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.borang label {
+    display: block;
+    margin-top: 10px;
+}
+
+.borang button {
+    margin-top: 15px;
+}
+
+.jumlah {
+    font-weight: bold;
+    margin-top: 10px;
+}
